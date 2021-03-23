@@ -1,0 +1,16 @@
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\OOP c# nashtech.exe
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\OOP c# nashtech.deps.json
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\OOP c# nashtech.runtimeconfig.json
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\OOP c# nashtech.runtimeconfig.dev.json
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\OOP c# nashtech.dll
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\ref\OOP c# nashtech.dll
+E:\c# nashtech prime number\bin\Debug\netcoreapp5.0\OOP c# nashtech.pdb
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.csprojAssemblyReference.cache
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.AssemblyInfoInputs.cache
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.AssemblyInfo.cs
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.csproj.CoreCompileInputs.cache
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.dll
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\ref\OOP c# nashtech.dll
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.pdb
+E:\c# nashtech prime number\obj\Debug\netcoreapp5.0\OOP c# nashtech.genruntimeconfig.cache

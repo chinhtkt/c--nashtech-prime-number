@@ -1,0 +1,13 @@
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.csprojAssemblyReference.cache
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.AssemblyInfoInputs.cache
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.AssemblyInfo.cs
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.csproj.CoreCompileInputs.cache
+E:\OOP c# nashtech\bin\Debug\netcoreapp3.1\OOP c# nashtech.exe
+E:\OOP c# nashtech\bin\Debug\netcoreapp3.1\OOP c# nashtech.deps.json
+E:\OOP c# nashtech\bin\Debug\netcoreapp3.1\OOP c# nashtech.runtimeconfig.json
+E:\OOP c# nashtech\bin\Debug\netcoreapp3.1\OOP c# nashtech.runtimeconfig.dev.json
+E:\OOP c# nashtech\bin\Debug\netcoreapp3.1\OOP c# nashtech.dll
+E:\OOP c# nashtech\bin\Debug\netcoreapp3.1\OOP c# nashtech.pdb
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.dll
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.pdb
+E:\OOP c# nashtech\obj\Debug\netcoreapp3.1\OOP c# nashtech.genruntimeconfig.cache
